@@ -6,13 +6,11 @@
 
 # 以下为介绍
 
-This is a supervised learning task, where you have 'X_train.npy' containing a dataset of images (2 mnist digits). The label set 'y_train.npy' contains the labels of the bigger number out of the two.
+1.这是一项监督学习任务，其中包含包含图像数据集（2 个 手写 数字）的“X_train.npy”。 标签集 'y_train.npy' 包含两者中较大数字的标签。
 
-Train a neural network to find the bigger number out of the two in the training sample.
+2.训练神经网络模型在训练样本中找出两者中较大的一个。
 
-Your performance will be evaluated based on the accuracy of your network on a **hidden** test dataset.
-This page shows up underneath the data files.
-
+3.模型是在kaggle隐藏测试数据集上的准确性进行评估，也就是文件"x_test_273.npy"。
 # 文件描述
 
 x_data_273.npy - the training set. 
