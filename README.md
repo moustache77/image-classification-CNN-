@@ -15,9 +15,9 @@ This page shows up underneath the data files.
 
 # 文件描述
 
-x_data_273.npy - the training set
-x_test_273.npy - the test set
-df_predictions.csv - a sample submission file in the correct format
+x_data_273.npy - the training set. 
+x_test_273.npy - the test set. 
+df_predictions.csv - a sample submission file in the correct format. 
 y_data_273.npy - true labels for the training set
 
 
